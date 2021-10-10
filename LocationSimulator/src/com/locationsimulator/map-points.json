@@ -1,0 +1,544 @@
+{
+	"geocoded_waypoints": [{
+			"geocoder_status": "OK",
+			"place_id": "ChIJDZ17pl0UrjsR5yj_ndgIrwk",
+			"types": ["premise"]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJkyUILWIUrjsRfsywuWV5iOE",
+			"types": ["street_address"]
+		}
+	],
+	"routes": [{
+			"bounds": {
+				"northeast": {
+					"lat": 12.9316597,
+					"lng": 77.6372047
+				},
+				"southwest": {
+					"lat": 12.9265847,
+					"lng": 77.6285175
+				}
+			},
+			"copyrights": "Map data ©2021",
+			"legs": [{
+				"distance": {
+					"text": "1.3 km",
+					"value": 1290
+				},
+				"duration": {
+					"text": "4 mins",
+					"value": 242
+				},
+				"end_address": "94, Marathahalli - Sarjapur Rd, Sector 2, Jakkasandra, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru, Karnataka 560034, India",
+				"end_location": {
+					"lat": 12.9265847,
+					"lng": 77.6371577
+				},
+				"start_address": "545, 8th Main Rd, 8th Block, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+				"start_location": {
+					"lat": 12.9316597,
+					"lng": 77.6285175
+				},
+				"steps": [{
+						"distance": {
+							"text": "0.2 km",
+							"value": 201
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 35
+						},
+						"end_location": {
+							"lat": 12.9300056,
+							"lng": 77.6292527
+						},
+						"html_instructions": "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003e8th Main Rd\u003c/b\u003e toward \u003cb\u003e7th Cross Rd\u003c/b\u003e",
+						"polyline": {
+							"points": "{u|mAgyxxMRGd@SRGf@QXKTG^M^Q`@M^MPENE"
+						},
+						"start_location": {
+							"lat": 12.9316597,
+							"lng": 77.6285175
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.4 km",
+							"value": 423
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 72
+						},
+						"end_location": {
+							"lat": 12.9298015,
+							"lng": 77.63302139999999
+						},
+						"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e7th Cross Rd\u003c/b\u003e",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "qk|mAy}xxMp@sELy@\\iCD_@LaB?MAQG[Qq@K]_@kA"
+						},
+						"start_location": {
+							"lat": 12.9300056,
+							"lng": 77.6292527
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.4 km",
+							"value": 378
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 69
+						},
+						"end_location": {
+							"lat": 12.928541,
+							"lng": 77.6361441
+						},
+						"html_instructions": "At SVKM's Narsee Monjee Institute of Management Studies, continue onto \u003cb\u003e1st Main Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the pharmacy (on the left)\u003c/div\u003e",
+						"polyline": {
+							"points": "gj|mAkuyxMMMAQBcAFSBI?ARa@?ATe@DGN[JW@IDINi@@ATk@rAaDj@wA"
+						},
+						"start_location": {
+							"lat": 12.9298015,
+							"lng": 77.63302139999999
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "49 m",
+							"value": 49
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 14
+						},
+						"end_location": {
+							"lat": 12.9281408,
+							"lng": 77.6359569
+						},
+						"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e6th Cross Rd\u003c/b\u003e",
+						"maneuver": "turn-right",
+						"polyline": {
+							"points": "kb|mA{hzxMnAb@"
+						},
+						"start_location": {
+							"lat": 12.928541,
+							"lng": 77.6361441
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.2 km",
+							"value": 239
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 52
+						},
+						"end_location": {
+							"lat": 12.9265847,
+							"lng": 77.6371577
+						},
+						"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e2nd Main Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "{_|mAwgzxMJUVi@LUJQLUV[PUX]\\[HI\\CRAX@XBXB"
+						},
+						"start_location": {
+							"lat": 12.9281408,
+							"lng": 77.6359569
+						},
+						"travel_mode": "DRIVING"
+					}
+				],
+				"traffic_speed_entry": [],
+				"via_waypoint": []
+			}],
+			"overview_polyline": {
+				"points": "{u|mAgyxxMdFiBbBg@bBwLLoBIm@]oA_@kAMM@uAJ]h@kAb@eAl@aB~ByFnAb@JUd@_AXg@h@q@v@y@HI\\Cl@?r@F"
+			},
+			"summary": "7th Cross Rd and 1st Main Rd",
+			"warnings": [],
+			"waypoint_order": []
+		},
+		{
+			"bounds": {
+				"northeast": {
+					"lat": 12.9316597,
+					"lng": 77.6372059
+				},
+				"southwest": {
+					"lat": 12.9265847,
+					"lng": 77.6285175
+				}
+			},
+			"copyrights": "Map data ©2021",
+			"legs": [{
+				"distance": {
+					"text": "1.3 km",
+					"value": 1293
+				},
+				"duration": {
+					"text": "5 mins",
+					"value": 273
+				},
+				"end_address": "94, Marathahalli - Sarjapur Rd, Sector 2, Jakkasandra, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru, Karnataka 560034, India",
+				"end_location": {
+					"lat": 12.9265847,
+					"lng": 77.6371577
+				},
+				"start_address": "545, 8th Main Rd, 8th Block, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+				"start_location": {
+					"lat": 12.9316597,
+					"lng": 77.6285175
+				},
+				"steps": [{
+						"distance": {
+							"text": "0.1 km",
+							"value": 120
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 17
+						},
+						"end_location": {
+							"lat": 12.9306679,
+							"lng": 77.62896289999999
+						},
+						"html_instructions": "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003e8th Main Rd\u003c/b\u003e",
+						"polyline": {
+							"points": "{u|mAgyxxMRGd@SRGf@QXKTG^M"
+						},
+						"start_location": {
+							"lat": 12.9316597,
+							"lng": 77.6285175
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.2 km",
+							"value": 179
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 39
+						},
+						"end_location": {
+							"lat": 12.9303002,
+							"lng": 77.63055709999999
+						},
+						"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003e1st Cross Rd\u003c/b\u003e",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "uo|mA_|xxMD}AZaBf@_C"
+						},
+						"start_location": {
+							"lat": 12.9306679,
+							"lng": 77.62896289999999
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.3 km",
+							"value": 277
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 66
+						},
+						"end_location": {
+							"lat": 12.9303915,
+							"lng": 77.6330177
+						},
+						"html_instructions": "Continue onto \u003cb\u003e1st Cross Rd\u003c/b\u003e",
+						"polyline": {
+							"points": "km|mA_fyxMZwBJy@FaABc@?IAKCMe@cBYkA"
+						},
+						"start_location": {
+							"lat": 12.9303002,
+							"lng": 77.63055709999999
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "71 m",
+							"value": 71
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 20
+						},
+						"end_location": {
+							"lat": 12.9298773,
+							"lng": 77.63317669999999
+						},
+						"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e80 Feet Rd\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSrinivagilu Main Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eParts of this road may be closed at certain times or days\u003c/div\u003e",
+						"maneuver": "turn-right",
+						"polyline": {
+							"points": "}m|mAkuyxMCQt@Ir@C"
+						},
+						"start_location": {
+							"lat": 12.9303915,
+							"lng": 77.6330177
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.4 km",
+							"value": 358
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 65
+						},
+						"end_location": {
+							"lat": 12.928541,
+							"lng": 77.6361441
+						},
+						"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e after CredR Used Bikes Showroom - Koramangala (on the left)\u003cdiv style=\"font-size:0.9em\"\u003ePass by the pharmacy (on the left)\u003c/div\u003e",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "wj|mAkvyxMBcAFSBI?ARa@?ATe@DGN[JW@IDINi@@ATk@rAaDj@wA"
+						},
+						"start_location": {
+							"lat": 12.9298773,
+							"lng": 77.63317669999999
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "49 m",
+							"value": 49
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 14
+						},
+						"end_location": {
+							"lat": 12.9281408,
+							"lng": 77.6359569
+						},
+						"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e6th Cross Rd\u003c/b\u003e",
+						"maneuver": "turn-right",
+						"polyline": {
+							"points": "kb|mA{hzxMnAb@"
+						},
+						"start_location": {
+							"lat": 12.928541,
+							"lng": 77.6361441
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.2 km",
+							"value": 239
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 52
+						},
+						"end_location": {
+							"lat": 12.9265847,
+							"lng": 77.6371577
+						},
+						"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e2nd Main Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "{_|mAwgzxMJUVi@LUJQLUV[PUX]\\[HI\\CRAX@XBXB"
+						},
+						"start_location": {
+							"lat": 12.9281408,
+							"lng": 77.6359569
+						},
+						"travel_mode": "DRIVING"
+					}
+				],
+				"traffic_speed_entry": [],
+				"via_waypoint": []
+			}],
+			"overview_polyline": {
+				"points": "{u|mAgyxxMtBu@n@S^MD}AbAaFf@qDJeBAUi@qB]}AhBMBcAFSBKRc@v@aBX_AhBmEj@wAnAb@b@_AXg@d@q@j@s@f@e@p@ElAH"
+			},
+			"summary": "1st Main Rd",
+			"warnings": [],
+			"waypoint_order": []
+		},
+		{
+			"bounds": {
+				"northeast": {
+					"lat": 12.9316597,
+					"lng": 77.6371577
+				},
+				"southwest": {
+					"lat": 12.9250232,
+					"lng": 77.6285175
+				}
+			},
+			"copyrights": "Map data ©2021",
+			"legs": [{
+				"distance": {
+					"text": "1.7 km",
+					"value": 1681
+				},
+				"duration": {
+					"text": "6 mins",
+					"value": 370
+				},
+				"end_address": "94, Marathahalli - Sarjapur Rd, Sector 2, Jakkasandra, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru, Karnataka 560034, India",
+				"end_location": {
+					"lat": 12.9265847,
+					"lng": 77.6371577
+				},
+				"start_address": "545, 8th Main Rd, 8th Block, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+				"start_location": {
+					"lat": 12.9316597,
+					"lng": 77.6285175
+				},
+				"steps": [{
+						"distance": {
+							"text": "0.2 km",
+							"value": 201
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 35
+						},
+						"end_location": {
+							"lat": 12.9300056,
+							"lng": 77.6292527
+						},
+						"html_instructions": "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003e8th Main Rd\u003c/b\u003e toward \u003cb\u003e7th Cross Rd\u003c/b\u003e",
+						"polyline": {
+							"points": "{u|mAgyxxMRGd@SRGf@QXKTG^M^Q`@M^MPENE"
+						},
+						"start_location": {
+							"lat": 12.9316597,
+							"lng": 77.6285175
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.4 km",
+							"value": 423
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 72
+						},
+						"end_location": {
+							"lat": 12.9298015,
+							"lng": 77.63302139999999
+						},
+						"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e7th Cross Rd\u003c/b\u003e",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "qk|mAy}xxMp@sELy@\\iCD_@LaB?MAQG[Qq@K]_@kA"
+						},
+						"start_location": {
+							"lat": 12.9300056,
+							"lng": 77.6292527
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.6 km",
+							"value": 562
+						},
+						"duration": {
+							"text": "2 mins",
+							"value": 99
+						},
+						"end_location": {
+							"lat": 12.9250232,
+							"lng": 77.6336639
+						},
+						"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e after SVKM's Narsee Monjee Institute of Management Studies (on the right)\u003cdiv style=\"font-size:0.9em\"\u003ePass by the park (on the left)\u003c/div\u003e",
+						"maneuver": "turn-right",
+						"polyline": {
+							"points": "gj|mAkuyxMMMAQNA~Pu@L?|DSbAEjBM"
+						},
+						"start_location": {
+							"lat": 12.9298015,
+							"lng": 77.63302139999999
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.4 km",
+							"value": 361
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 80
+						},
+						"end_location": {
+							"lat": 12.925393,
+							"lng": 77.6369502
+						},
+						"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e after Sandeepani (on the right)\u003cdiv style=\"font-size:0.9em\"\u003ePass by Global Institution of Intellectual Property Private Limited (on the left)\u003c/div\u003e",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "kl{mAkyyxMwAsPDm@Fo@"
+						},
+						"start_location": {
+							"lat": 12.9250232,
+							"lng": 77.6336639
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": {
+							"text": "0.1 km",
+							"value": 134
+						},
+						"duration": {
+							"text": "1 min",
+							"value": 84
+						},
+						"end_location": {
+							"lat": 12.9265847,
+							"lng": 77.6371577
+						},
+						"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e2nd Main Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "un{mA}mzxMm@GkAIYEyAQ"
+						},
+						"start_location": {
+							"lat": 12.925393,
+							"lng": 77.6369502
+						},
+						"travel_mode": "DRIVING"
+					}
+				],
+				"traffic_speed_entry": [],
+				"via_waypoint": []
+			}],
+			"overview_polyline": {
+				"points": "{u|mAgyxxMdFiBbBg@bBwLLoBIm@]oA_@kAMMAQNAlQu@`GYjBMwAsPL}AyBQsBW"
+			},
+			"summary": "7th Cross Rd and 80 Feet Rd",
+			"warnings": [],
+			"waypoint_order": []
+		}
+	],
+	"status": "OK"
+}
